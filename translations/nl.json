@@ -18,7 +18,7 @@
 "Fri":"vrij",
 "Sat":"za",
 "Sun":"zo",
-"No Wind":"rolig",
+"No Wind":"windstil",
 "Humidity": "Vochtig",
 "Visibility":"Afstand",
 "Pressure":"Druk",
@@ -27,5 +27,5 @@
 "Lightly Polluted":"Licht vervuild",
 "Moderately Polluted":"Matig vervuild",
 "Heavily Polluted":"Zwaar vervuild",
-"Forecast":"Vejrudsigt"
+"Forecast":"Voorspelling"
 }
